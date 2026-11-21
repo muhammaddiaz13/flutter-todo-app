@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>552843539662-24rm7miifidn1l70bse1jscubg5112gh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.552843539662-24rm7miifidn1l70bse1jscubg5112gh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>552843539662-i84is29fh1qs4u39ippdrhaks3ul0fe0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCayhzbeRmuLTtUcsRbGnXHojDo9rCpRc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>552843539662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pertemuan6Firebase</string>
+	<key>PROJECT_ID</key>
+	<string>anime-verse1-1bd60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anime-verse1-1bd60.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:552843539662:ios:95e263d9737abf97858c9f</string>
+</dict>
+</plist>
